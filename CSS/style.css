@@ -1,0 +1,30 @@
+body {
+   font-size: 0/7rem;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   background-color: rgb(247, 234, 218);
+}
+
+table {
+   border: 3px solid grey;
+   width: 700px;
+   border-collapse: collapse;
+}
+
+th {
+   border: 1px solid black;
+   margin: 10px;
+   padding: 10px;
+   background-color: rgb(243, 214, 178);
+}
+
+td {
+   border: 1px solid grey;
+   margin: 10px;
+   padding: 10px;
+   background-color: rgb(215, 222, 203);
+}
+
+td:hover {
+   background: #f3bd48; /* Цвет фона при наведении */
+   color: #fff
+}
